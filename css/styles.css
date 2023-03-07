@@ -131,3 +131,55 @@ input{
     flex-direction: row;
     
 }
+
+.quote-bg{
+    background-color: #e5e7eb;
+    
+}
+
+.third{
+    display: flex;
+    margin-top: 120px;
+    justify-content: center;
+}
+
+.quote{
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    text-align: center;
+    color: #1f2937;
+    width: 1250px;
+    padding: 50px;
+}
+
+.author{
+    font-size: 26px;
+    font-weight: bolder;
+    text-align: right;
+    margin-bottom: 20px;
+}
+
+.bg-blue{
+    background-color: #3882f6;
+}
+
+.info{
+    border: 1px solid white;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.items{
+    padding: 20px;
+    margin-bottom: 50px;
+}
+
+.footer-text{
+    background-color: #1f2937;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
